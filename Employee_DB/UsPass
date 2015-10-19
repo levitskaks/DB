@@ -1,0 +1,3 @@
+user=student
+password=student
+DBaddress=jdbc:mysql://localhost:3306/demo
